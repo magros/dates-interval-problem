@@ -1,0 +1,12 @@
+{
+    "name": "marco/demo-dates-interval",
+    "require": {
+        "phpunit/phpunit": "^8.1"
+    },
+    "authors": [
+        {
+            "name": "Marco Godinez",
+            "email": "iron-rocks@hotmail.com"
+        }
+    ]
+}
